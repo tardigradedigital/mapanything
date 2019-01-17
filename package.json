@@ -1,0 +1,19 @@
+{
+  "name": "mapanything",
+  "version": "1.0.0",
+  "description": "MapAnything Connects to the Google Geocoding Service and Google Timezone Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tardigradedigital/mapanything.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tardigradedigital/mapanything/issues"
+  },
+  "homepage": "https://github.com/tardigradedigital/mapanything#readme"
+}
